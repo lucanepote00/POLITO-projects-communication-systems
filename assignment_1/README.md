@@ -1,4 +1,4 @@
-This assignment consisted in 3 exercises, respectively:
+This assignment consisted of 3 exercises, respectively:
 
 1) Error Detection
 2) Generator Polynomial and Code Properties
